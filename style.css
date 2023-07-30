@@ -122,4 +122,20 @@ button:hover {
     border-radius: 10px;
 }
 
-/*Custom Scrollbar*/
+/*Desktop*/
+
+@media screen and (min-width: 1024px)
+{
+}
+
+/*Tablet*/
+
+@media screen and (min-width: 767px) and (max-width: 1023px)
+{
+}
+
+/*Smartphone*/
+
+@media screen and (max-width: 767px) {
+}
+
