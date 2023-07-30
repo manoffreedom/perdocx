@@ -98,3 +98,11 @@ button:hover {
     font-family: 'Lexend', sans-serif;
     font-size: 20;
 }
+
+.copyright {
+    text-align: center;
+    font-family: 'Lexend', sans-serif;
+    font-size: 16;
+    opacity: 90%;
+    margin-top: 75;
+}
