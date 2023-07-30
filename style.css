@@ -119,7 +119,7 @@ button:hover {
 
 ::-webkit-scrollbar-thumb {
     background: #5F7ADB;
-    border-radius: 10;
+    border-radius: 10px;
 }
 
 /*Custom Scrollbar*/
