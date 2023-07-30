@@ -1,0 +1,100 @@
+/*Lexend*/
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@500;900&family=Poppins:wght@600;900&family=Prompt:wght@500;900&family=Space+Grotesk:wght@500&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    color: #fff;
+}
+
+body {
+    background-image: url(bgimg.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+li, a, button {
+    text-decoration: none;
+    font-family: 'Lexend', sans-serif;
+    font-size: 20;
+    font-weight: 500;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 5%;
+}
+
+.logo {
+    cursor: pointer;
+    width: 110;
+}
+
+.navigation {
+    list-style: none;
+}
+
+.navigation li {
+    display: inline-block;
+    padding: 0px 20px;
+    scale: 0.9;
+    transition: scale 0.2s;
+}
+
+.navigation li:hover {
+    scale: 1.0;
+}
+
+button {
+    border-radius: 50px;
+    background: #5F7ADB;
+    padding: 8px 20px;
+    border: none;
+    cursor: pointer;
+    scale: 0.8;
+    transition: 0.2s;
+}
+
+button:hover {
+    background: #008000;
+}
+
+.mini_desc h1 {
+    font-family: 'Lexend', sans-serif;
+    font-size: 50;
+    margin: 50 100;
+    margin-bottom: 20;
+    text-align: center;
+}
+
+.mini_desc p {
+    font-family: 'Lexend', sans-serif;
+    font-size: 16;
+    margin: 0 100;
+    text-align: center;
+}
+
+.images {
+    width: 100%;
+    text-align: center;
+}
+
+.images img {
+    margin: 0 50;
+    border-radius: 20px;
+    width: 200;
+    height: 200;
+}
+
+.body {
+    text-align: center;
+}
+
+.body h1 {
+    margin: 50;
+    font-family: 'Lexend', sans-serif;
+    font-size: 20;
+}
