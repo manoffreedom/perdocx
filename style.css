@@ -65,7 +65,7 @@ button:hover {
 .mini_desc h1 {
     font-family: 'Lexend', sans-serif;
     font-size: 50;
-    margin: 100 100;
+    margin-top: 100;
     margin-bottom: 20;
     text-align: center;
 }
