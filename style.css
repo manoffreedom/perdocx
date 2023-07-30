@@ -11,7 +11,7 @@
 body {
     background: url('https://raw.githubusercontent.com/manoffreedom/perdocx/d6de6095a5cee1e0266acced40dec7066d651ca2/images/Background%20Picture.svg');
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
 }
 
 li, a, button {
@@ -65,7 +65,7 @@ button:hover {
 .mini_desc h1 {
     font-family: 'Lexend', sans-serif;
     font-size: 50;
-    margin: 55 100;
+    margin: 100 100;
     margin-bottom: 20;
     text-align: center;
 }
@@ -104,5 +104,5 @@ button:hover {
     font-family: 'Lexend', sans-serif;
     font-size: 16;
     opacity: 90%;
-    margin-top: 150;
+    margin-top: 75;
 }
