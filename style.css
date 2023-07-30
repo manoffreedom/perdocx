@@ -65,7 +65,7 @@ button:hover {
 .mini_desc h1 {
     font-family: 'Lexend', sans-serif;
     font-size: 50;
-    margin: 50 100;
+    margin: 55 100;
     margin-bottom: 20;
     text-align: center;
 }
@@ -104,5 +104,5 @@ button:hover {
     font-family: 'Lexend', sans-serif;
     font-size: 16;
     opacity: 90%;
-    margin-top: 75;
+    margin-top: 150;
 }
