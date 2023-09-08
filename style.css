@@ -137,10 +137,18 @@ button:hover {
 /*Phones*/
 
 @media screen and (max-width: 767px) {
-    li, a, button {
+    li, a {
         display: none;
     }
     .mini desc p {
-        margin: 100 0;
+        margin: 20;
+    }
+    .mini desc h1 {
+        font-size: 40px;
+    }
+    .images img {
+        width: 100;
+        height: 100;
+        margin: 0 25;
     }
 }
